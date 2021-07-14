@@ -1,0 +1,24 @@
+{
+  "events" : [
+    {
+       "eventId": 1,
+       "cityName": "Central Tokyo",
+       "cityImageUrl": "url1"
+    },
+    {
+       "eventId": 2,
+       "cityName": "Chiba",
+       "cityImageUrl": "url2"
+    },
+    {
+       "eventId": 3,
+       "cityName": "Shizu Oka",
+       "cityImageUrl": "url3"
+    },
+    {
+       "eventId": 4,
+       "cityName": "Greater Tokyo",
+       "cityImageUrl": "url4"
+    }
+  ]
+}
