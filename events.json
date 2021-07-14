@@ -3,22 +3,22 @@
     {
        "eventId": 1,
        "cityName": "Central Tokyo",
-       "cityImageUrl": "url1"
+       "cityImageUrl": "https://user-images.githubusercontent.com/17777135/125592036-bd290d40-e8a0-4766-bfbb-7af9ee4edacb.jpg"
     },
     {
        "eventId": 2,
        "cityName": "Chiba",
-       "cityImageUrl": "url2"
+       "cityImageUrl": "https://user-images.githubusercontent.com/17777135/125593423-6bbe6eee-5326-4bbb-869e-11da32065074.jpg"
     },
     {
        "eventId": 3,
-       "cityName": "Shizu Oka",
-       "cityImageUrl": "url3"
+       "cityName": "Shizuoka",
+       "cityImageUrl": "https://user-images.githubusercontent.com/17777135/125594057-39562ca4-a87f-46c6-a8cd-fa1453c33301.jpg"
     },
     {
        "eventId": 4,
        "cityName": "Greater Tokyo",
-       "cityImageUrl": "url4"
+       "cityImageUrl": "https://user-images.githubusercontent.com/17777135/125594729-2ec2c413-a892-447c-998c-f44c5be3f099.jpg"
     },
     {
        "eventId": 5,
