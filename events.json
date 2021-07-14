@@ -43,22 +43,22 @@
     {
        "eventId": 9,
        "cityName": "Machida",
-       "cityImageUrl": "url1"
+       "cityImageUrl": "https://user-images.githubusercontent.com/17777135/125592036-bd290d40-e8a0-4766-bfbb-7af9ee4edacb.jpg"
     },
     {
        "eventId": 10,
        "cityName": "Hokkaido",
-       "cityImageUrl": "url2"
+       "cityImageUrl": "https://user-images.githubusercontent.com/17777135/125593423-6bbe6eee-5326-4bbb-869e-11da32065074.jpg"
     },
     {
        "eventId": 11,
        "cityName": "New York",
-       "cityImageUrl": "url3"
+       "cityImageUrl": "https://user-images.githubusercontent.com/17777135/125597383-c424a225-0a57-44b9-8e8a-d7a4fbc98b38.jpg"
     },
     {
        "eventId": 12,
        "cityName": "Beijing",
-       "cityImageUrl": "url4"
+       "cityImageUrl": "https://user-images.githubusercontent.com/17777135/125598086-c6389ea8-8faf-437f-855d-d26bab5175cd.jpg"
     }
   ]
 }
