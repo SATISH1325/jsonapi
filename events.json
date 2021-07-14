@@ -19,6 +19,46 @@
        "eventId": 4,
        "cityName": "Greater Tokyo",
        "cityImageUrl": "url4"
+    },
+    {
+       "eventId": 5,
+       "cityName": "Saitama",
+       "cityImageUrl": "url1"
+    },
+    {
+       "eventId": 6,
+       "cityName": "Osaka",
+       "cityImageUrl": "url2"
+    },
+    {
+       "eventId": 7,
+       "cityName": "Edogawa",
+       "cityImageUrl": "url3"
+    },
+    {
+       "eventId": 8,
+       "cityName": "Kanagawa",
+       "cityImageUrl": "url4"
+    },
+    {
+       "eventId": 9,
+       "cityName": "Machida",
+       "cityImageUrl": "url1"
+    },
+    {
+       "eventId": 10,
+       "cityName": "Hokkaido",
+       "cityImageUrl": "url2"
+    },
+    {
+       "eventId": 11,
+       "cityName": "New York",
+       "cityImageUrl": "url3"
+    },
+    {
+       "eventId": 12,
+       "cityName": "Beijing",
+       "cityImageUrl": "url4"
     }
   ]
 }
