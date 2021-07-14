@@ -1,0 +1,54 @@
+{
+  "categories" : [
+    {
+       "categoryId": 1,
+       "categoryName": "Music",
+       "categoryImageUrl": "https://user-images.githubusercontent.com/17777135/125592036-bd290d40-e8a0-4766-bfbb-7af9ee4edacb.jpg"
+    },
+    {
+       "categoryId": 2,
+       "categoryName": "Movies",
+       "categoryImageUrl": "https://user-images.githubusercontent.com/17777135/125592036-bd290d40-e8a0-4766-bfbb-7af9ee4edacb.jpg"
+    },
+    {
+       "categoryId": 3,
+       "categoryName": "Gourm",
+       "categoryImageUrl": "https://user-images.githubusercontent.com/17777135/125592036-bd290d40-e8a0-4766-bfbb-7af9ee4edacb.jpg"
+    },
+    {
+       "categoryId": 4,
+       "categoryName": "Books",
+       "categoryImageUrl": "https://user-images.githubusercontent.com/17777135/125592036-bd290d40-e8a0-4766-bfbb-7af9ee4edacb.jpg"
+    },
+    {
+       "categoryId": 5,
+       "categoryName": "Groceries",
+       "categoryImageUrl": "https://user-images.githubusercontent.com/17777135/125592036-bd290d40-e8a0-4766-bfbb-7af9ee4edacb.jpg"
+    },
+    {
+       "categoryId": 6,
+       "categoryName": "Foods",
+       "categoryImageUrl": "https://user-images.githubusercontent.com/17777135/125592036-bd290d40-e8a0-4766-bfbb-7af9ee4edacb.jpg"
+    },
+    {
+       "categoryId": 7,
+       "categoryName": "Jewelry",
+       "categoryImageUrl": "https://user-images.githubusercontent.com/17777135/125592036-bd290d40-e8a0-4766-bfbb-7af9ee4edacb.jpg"
+    },
+    {
+       "categoryId": 8,
+       "categoryName": "Fashon",
+       "categoryImageUrl": "https://user-images.githubusercontent.com/17777135/125592036-bd290d40-e8a0-4766-bfbb-7af9ee4edacb.jpg"
+    },
+    {
+       "categoryId": 9,
+       "categoryName": "Mobile",
+       "categoryImageUrl": "https://user-images.githubusercontent.com/17777135/125592036-bd290d40-e8a0-4766-bfbb-7af9ee4edacb.jpg"
+    },
+    {
+       "categoryId": 10,
+       "categoryName": "Tablets",
+       "categoryImageUrl": "https://user-images.githubusercontent.com/17777135/125592036-bd290d40-e8a0-4766-bfbb-7af9ee4edacb.jpg"
+    }
+  ]
+}
